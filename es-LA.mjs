@@ -22,7 +22,7 @@
 
      "ui.want_to_go_back": "¿Quieres ir para atras?",
 
-     "ui.greeting.hello": "Hola!",
+     "ui.greeting.hello": "¡Hola!",
      "ui.greeting.good_morning": "Buenos dias, {name}.",
      "ui.greeting.good_day": "Hola, {name}.",
      "ui.greeting.good_afternoon": "Buenas tardes, {name}.",
@@ -107,7 +107,7 @@
      "settings.pair_a_device.select_account": "¿Cual cuenta te gustara usar?",
      "settings.pair_a_device.success": "Exito!",
      "settings.pair_a_device.success.description": "Tu has exitosamente emparejado con {deviceType}.",
-     "settings.pair_a_device.again": "Pair Another?",
+     "settings.pair_a_device.again": "¿Emparejar Otro?",
 
      "sidebar.home": "Casa",
      "sidebar.your_stream": "Tu Transmisión",
@@ -128,9 +128,9 @@
      "chatbot_manager.shouts.RAID": "redadas",
      "chatbot_manager.shouts.SUBSCRIPTION": "suscripciónes",
      "chatbot_manager.timers.format": "Cada %seconds% segundos, mandar uno de lo siguiente:",
-     "chatbot_manager.example.command": "Chequa a casterlabs.co!",
-     "chatbot_manager.example.shout": "Gracias por el seguimiento!",
-     "chatbot_manager.example.timer": "Yo amo a Casterlabs!",
+     "chatbot_manager.example.command": "¡Chequa a casterlabs.co!",
+     "chatbot_manager.example.shout": "¡Gracias por el seguimiento!",
+     "chatbot_manager.example.timer": "¡Yo amo a Casterlabs!",
 
      "widget_manager": "Widgets",
      "dock_manager": "Docks",
