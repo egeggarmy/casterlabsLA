@@ -1,8 +1,8 @@
 @@ -0,0 +1,170 @@
  export default {
-     "meta.name": "Español  (España)",
+     "meta.name": "Español  (America Latina)",
      "meta.code": "es-LA",
-     "meta.flag": "🇪🇸",
+     "meta.flag": "🇲🇽",
      "meta.direction": "ltr",
 
      "app.terms_of_service": "Terminos de Servicios",
@@ -18,7 +18,7 @@
      "ui.welcome": "Bienvenido a Casterlabs",
      "ui.welcome.sub": "El gratis suite de transmisión.",
      "ui.welcome.start": "Vamos a empezar",
-     "ui.welcome.customize": "Let's customize Casterlabs",
+     "ui.welcome.customize": "Personalicemos Casterlabs",
 
      "ui.want_to_go_back": "¿Quieres ir para atras?",
 
