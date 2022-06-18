@@ -77,7 +77,7 @@
      "casterlabs_account.invalid_email": "Ese email no es valido.",
      "casterlabs_account.error": "Algo salio mal!",
      "casterlabs_account.request_password_reset": "Petición para recuperación de contraseña",
-     "casterlabs_account.request_password_reset.success": "We've sent you an email with a link to reset your password.",
+     "casterlabs_account.request_password_reset.success": "Le hemos enviado un email con un enlace para restablecer su password.",
      "casterlabs_account.back_to_login": "Atras a Pantalla de Login",
      "casterlabs_account.know_your_password": "¿Sabes tu password?",
      "casterlabs_account.forgot_your_password": "¿Olvidaste tu password?",
