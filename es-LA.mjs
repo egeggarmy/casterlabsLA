@@ -8,13 +8,9 @@
 
      "app.terms_of_service": "Terminos de Servicios",
      "app.privacy_policy": "Politica de Privacidad",
-     "app.footer": "Hecho con ♥ de Casterlabs.<br/>  Derechos del Autor© {year} Casterlabs. Todos rechos reservados. De nada. -eg",
-     "app.service_disclaimer":
-         `Por iniciando sesion, tu aceptas nuestros
-         <a href="https://casterlabs.co/terms-of-service" class="fade-on-hover" rel="external">Terminos de Servicios</a>
-         y tu reconoces que nuestro
-         <a href="https://casterlabs.co/privacy-policy" class="fade-on-hover" rel="external">Politica de Privacidad</a>
-         aplica a ti.`,
+     "app.footer": "Hecho con ♥ de Casterlabs.<br/>  Derechos del Autor© {year} Casterlabs. Todos rechos reservados.",
+     "app.service_disclaimer": "Por iniciando sesion, tu aceptas nuestros %tos% y tu reconoces que nuestro %privacy% aplica a ti.",
+
 
      "ui.welcome": "Bienvenido a Casterlabs",
      "ui.welcome.sub": "El gratis suite de transmisión.",
