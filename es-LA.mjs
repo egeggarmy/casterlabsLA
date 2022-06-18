@@ -15,9 +15,9 @@
          <a href="https://casterlabs.co/privacy-policy" class="fade-on-hover" rel="external">Politica de Privacidad</a>
          aplica a ti.`,
 
-     "ui.welcome": "Bienvenido a Casterlabs.",
+     "ui.welcome": "Bienvenido a Casterlabs",
      "ui.welcome.sub": "El gratis suite de transmisión.",
-     "ui.welcome.start": "Vamos a empezar.",
+     "ui.welcome.start": "Vamos a empezar",
      "ui.welcome.customize": "Let's customize Casterlabs",
 
      "ui.want_to_go_back": "¿Quieres ir para atras?",
