@@ -63,7 +63,7 @@
      "settings.plugins.load": "Cargar",
 
 
-     "settings.about": "About",
+     "settings.about": "Sobre",
      "settings.about.enable_stupidly_unsafe_settings": "Encendir Estúpidamente No Seguro Configuraciones",
      "settings.about.credits": "Creditos",
 
@@ -170,7 +170,7 @@
      "widgets.editor": "Editor de Widgets",
      "widgets.editor.preview": "Avance",
 
-    "stream.title": "Titulo",
+     "stream.title": "Titulo",
      "stream.category": "Juego/Categoría",
      "stream.content_rating": "Calificación de Contenido",
      "stream.language": "Idioma",
